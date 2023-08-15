@@ -1,3 +1,6 @@
+
+![MicrosoftTeams-image (2)](https://github.com/HAEC-IEs/HAEC-Resources/assets/126516382/b4ed8af4-8ec2-4a7d-8d67-cfd87801cf81)
+
 # HAEC-Resources
 
 The Humanitarian Assistance Evidence Cycle (HAEC) Associate Award works to increase the efficiency and effectiveness of emergency food security activities funded by the USAID Bureau for Humanitarian Assistance (BHA) by increasing the use of cost-effective and timely impact evaluations in humanitarian contexts. Impact evaluations provide robust evidence to inform technical approaches to improve the impact of humanitarian interventions.
