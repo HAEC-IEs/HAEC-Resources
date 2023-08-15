@@ -4,9 +4,10 @@
 # About HAEC's GitHub
 
 On this page, you will find relevant code, survey, and consent form templates for conducting humanitarian impact evaluations. On this page you will find: 
-  1. Template ODK survey tool: This survey tool includes common household demographic questions and BHA required indicators commonly measured on humanitarian activities
-  2. Informed Consent Template: This document provides a template language for obtaining informed consent from research participants before conducting a survey. This is an editable resource that research teams can adapt to fit their needs.
-  3. Power calculations Stata code: This code allows the user to enter power calculation parameters in the command window and outputs minimum detectable effects or sample sizes for various impact evaluation designs
+
+  **1. Template ODK survey tool:** This survey tool includes common household demographic questions and BHA required indicators commonly measured on humanitarian activities <br>
+  **2. Informed Consent Template:** This document provides a template language for obtaining informed consent from research participants before conducting a survey. This is an editable resource that research teams can adapt to fit their needs. <br>
+  **3. Power calculations Stata code:** This code allows the user to enter power calculation parameters in the command window and outputs minimum detectable effects or sample sizes for various impact evaluation designs <br>
 
 If you have any questions about the resources provided, please email haec@savechildren.org
 
